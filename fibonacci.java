@@ -10,7 +10,7 @@ public class fibonacci
 
         int n = scanner.nextInt();
 
-        System.out.println("Fibonacci series up to " + n + " terms:");
+        System.out.println("Fibonacci series up to  the " + n + " terms:");
 
         for (int i = 0; i < n; i++) {
             System.out.print(fibonacci(i) + " ");
