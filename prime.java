@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
-public class prime {
+public class prime 
+ {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -35,6 +36,3 @@ public class prime {
         return true;
     }
 }
-
-
-
